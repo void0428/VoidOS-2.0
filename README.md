@@ -5,6 +5,16 @@ VoidOS is a fully interactive desktop-like operating system simulator built enti
 ![VoidOS Preview](public/preview.png)
 
 
+## Project Status
+
+🚧 I’m currently busy with college/academic commitments, so active development is paused for now.  
+I’ll resume work on this project during my holidays.
+
+Feel free to contribute, and if you like the project, please ⭐ the repository.  
+You can also follow the repo to get updates and activity notifications.
+
+
+
 ## Features
 
 - **Desktop Environment:** Main workspace with icons and wallpaper, supports drag-and-drop windows and launching apps.
